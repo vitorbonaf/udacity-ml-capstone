@@ -1,4 +1,4 @@
-# Nanodegree Engenheiro de Machine Learning
+# Machine Learning Engineer Nanodegree
 
 ## Capstone
 Vitor Bona de Faria
